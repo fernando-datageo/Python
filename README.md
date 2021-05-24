@@ -11,6 +11,6 @@ Média Alunos
 
 - Média Alunos
         
-     aluno
+     - Aluno
      nota
      listanotas
