@@ -6,7 +6,8 @@ Jogos
 
 - Advinhação
 - Forca
-        - Palavras
+  
+  - Palavras
 
 Média Alunos
 
