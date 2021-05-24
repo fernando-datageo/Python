@@ -2,17 +2,12 @@
 
 - Olá Mundo
 
-Jogos
+Jogos:
 
 - Advinhação
 - Forca
-  
-  - Palavras
 
-Média Alunos
+Listas:
 
 - Média Alunos
-        
-     - Aluno
-     - Nota
-     - Lista Médias
+
