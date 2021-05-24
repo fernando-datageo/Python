@@ -18,7 +18,7 @@ def acertarNotas(aluno,nota):
         listanota.append(todos) # Adiciona a lista de notas
     f1.close()
     f2.close()
-    arquivo=open('listanotas','w') # Cria uma arquivo para salvar as execuções realizadas
+    arquivo=open('listamedias','w') # Cria uma arquivo para salvar as execuções realizadas
     arquivo.writelines(listanota) # Transcreve as informações no arquivo
     arquivo.close()
     return
