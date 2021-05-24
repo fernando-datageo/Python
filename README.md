@@ -10,6 +10,7 @@ Jogos
 Média Alunos
 
 - Média Alunos
-        aluno
-        nota
-        listanotas
+        
+     aluno
+     nota
+     listanotas
