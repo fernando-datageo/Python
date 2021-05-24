@@ -13,4 +13,4 @@ Média Alunos
         
      - Aluno
      - Nota
-     - Lista Notas
+     - Lista Médias
