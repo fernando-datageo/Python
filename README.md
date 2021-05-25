@@ -14,4 +14,4 @@ Listas:
 
 Plotagens:
 
-- 
+- Gráficos
