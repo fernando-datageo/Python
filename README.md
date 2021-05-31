@@ -2,6 +2,10 @@
 
 - Olá Mundo
 
+Bibliotecas:
+
+- Data Science: Numpy
+
 Jogos:
 
 - Advinhação
