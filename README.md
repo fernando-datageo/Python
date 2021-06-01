@@ -4,7 +4,7 @@
 
 Bibliotecas:
 
-- Data Science: Numpy
+- Data Science: Numpy Básico
 
 Jogos:
 
